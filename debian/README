@@ -1,0 +1,7 @@
+The Debian Package ubnt-igmpproxy
+------------------------------
+
+This package contains the ubnt-igmpproxy project developed by UBNT. This 
+package includes the programs, plus cli operational and commands.
+
+ -- Stig Thormodsrud <stig@ubnt.com>  Fri, 15 Jul 2011 16:55:39 -0700

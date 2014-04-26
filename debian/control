@@ -1,0 +1,16 @@
+Source: ubnt-igmpproxy
+Section: contrib/net
+Priority: extra
+Maintainer: UBNT Package Maintainers <maintainers@ubnt.com>
+Build-Depends: debhelper (>= 5), 
+ autotools-dev, 
+Standards-Version: 3.7.2
+
+Package: ubnt-igmpproxy
+Architecture: any
+Depends:  perl (>= 5.8.8),
+ vyatta-bash | bash (>= 3.1),
+ igmpproxy
+Description: The ubnt-igmpproxy package
+ This package has the ubnt-igmpproxy programs, and vyatta 
+ configureation/operational templates and scripts.
