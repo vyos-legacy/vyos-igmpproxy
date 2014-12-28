@@ -1,3 +1,9 @@
+ubnt-igmpproxy (0.1.0+vyos2+lithium2) unstable; urgency=low
+
+  * Update maintainer address
+
+ -- Alex Harpin <development@landsofshadow.co.uk>  Sun, 28 Dec 2014 21:01:17 +0000
+ 
 ubnt-igmpproxy (0.1.0+vyos2+lithium1) unstable; urgency=low
 
   * Force release
