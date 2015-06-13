@@ -1,3 +1,9 @@
+ubnt-igmpproxy (0.1.0+vyos2+lithium3) unstable; urgency=low
+
+  * vyos-igmpproxy: update dh_gencontrol to enable development builds
+
+ -- Alex Harpin <development@landsofshadow.co.uk>  Sat, 13 Jun 2015 11:24:36 +0100
+ 
 ubnt-igmpproxy (0.1.0+vyos2+lithium2) unstable; urgency=low
 
   * Update maintainer address
